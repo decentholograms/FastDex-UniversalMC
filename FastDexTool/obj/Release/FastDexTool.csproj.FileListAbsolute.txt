@@ -1,0 +1,29 @@
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\Guna.UI2.dll
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.Properties.Resources.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexT.510B93C3.Up2Date
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.fakeproxy.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.userinfo.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.scanner.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.FastDex.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.initial.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.serverinfo.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.session.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.deasher.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDexTool.finder.resources
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FastDex UniversalMC.exe.config
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FastDex UniversalMC.exe.manifest
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FastDex UniversalMC.application
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FastDex UniversalMC.exe
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\bin\Release\FastDex UniversalMC.pdb
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.TrustInfo.xml
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.exe.manifest
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.application
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.exe
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.pdb
+C:\Users\Developer\Desktop\FastDexTool\FastDexTool\obj\Release\FastDex UniversalMC.exe.config
